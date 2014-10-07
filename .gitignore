@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+TwuBiblioteca.iml
+TwuBiblioteca.ipr
+TwuBiblioteca.iws
+build/
+out/
+**/.DS_Store
